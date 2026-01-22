@@ -125,7 +125,10 @@ Problem decomposition
 Clean code structure
 
 ## 👤 Author
+
 Arulesh P P
+
 Robotics-Oriented Python Software Engineer
+
 
 
