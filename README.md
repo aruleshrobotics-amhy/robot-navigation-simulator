@@ -47,11 +47,15 @@ This approach demonstrates basic autonomous behavior without global path plannin
 
 ## 🗂️ Project Structure
 
-robot-navigation-simulator/
-├── main.py          # Main control loop
-├── robot.py         # Robot movement and decision logic
-├── environment.py   # Grid and obstacle handling
-└── README.md        # Project documentation
+The project consists of the following files:
+
+main.py – Main control loop that runs the simulation
+
+robot.py – Contains robot state, movement, and decision logic
+
+environment.py – Defines the grid environment and obstacle handling
+
+README.md – Project documentation
 
 ---
 
@@ -127,6 +131,7 @@ Clean code structure
 Arulesh P P
 
 Robotics-Oriented Python Software Engineer
+
 
 
 
